@@ -2,11 +2,12 @@
 
 1. Create react project using  : npm create vite@latest project-name -- --template react
 
-2.remove unwanted codes
+2.remove unwanted codes (css , app.jsx)
 
-3.RUn the React app using commond : npm run dev
+3.Run the React app using commond : npm run dev
+
 4.intalling 3rdparty libraries
-    -material UI (ready meade react components) - npm install @mui/material @emotion/react @emotion/styled
+    -material UI (ready made react components) - npm install @mui/material @emotion/react @emotion/styled
     icons - npm install react-icons --save
     -react bootstrap
 
@@ -15,5 +16,5 @@
     -create component folder 
 
 6. Setup url for components
-    -install react-router-dom : npm i react-router-dom     
+    -install react-router-dom :  
 
